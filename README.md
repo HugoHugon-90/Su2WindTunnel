@@ -1,4 +1,9 @@
 # Wind Tunnel Simulator 
+In this code we construct a wind tunnel for a 2D-truncated cone
+parametrized according to the user input (base, height and top) dimensions
+and wind velocity.
+It uses SU2 open source finite-element code to calculate important
+physical quantities such as surface energy or heat flux.
 
 ## Running instructions, in order
 
