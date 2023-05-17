@@ -1,4 +1,7 @@
 # Wind Tunnel Simulator 
+**This code is part of a challenge proposed to me by Inductiva Labs. This code
+is all mine, but reflects their original proposal and idea.**
+
 In this code we construct a wind tunnel for a 2D-truncated cone
 parametrized according to the user input (base, height and top) dimensions
 and wind velocity.
