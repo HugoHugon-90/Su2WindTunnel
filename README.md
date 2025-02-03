@@ -21,7 +21,7 @@ physical quantities such as surface energy or heat flux.
         
         note: you can try to pull the code and install it 
         using the pre-made scripts in the SU2 doc, 
-        but there are several issues and incompatibilities as of now
+        but there are several issues and incompatibilities as of now (Dec. 2022)
 
 - Within the container, install python 3.7 or above. Make sure to update Python3 package (run python3 --version to confirm).
 - Within the container, install mpi4py:
